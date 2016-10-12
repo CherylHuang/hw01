@@ -1,0 +1,152 @@
+html{
+  background-color: #EDF2C5;
+}
+body{
+  margin: 0;
+}
+.main-head{
+  padding-top: 50px;
+  padding-left: 150px;
+}
+.main-body{
+  padding-left: 150px;
+  padding-bottom: 34px;
+  width: 940px;
+}
+.clear{
+  clear: both;
+}
+/*head part*/
+h1{
+  font-family: Arial Black;
+  font-size: 43px;
+  color: #889C5B;
+  margin: 0px 0px 10px 0px;
+  padding: 0;
+  float: left;
+}
+#fb{
+  margin: 23px 8px 17px 473px;
+  float: left;
+}
+#ig{
+  margin: 23px 10px 17px 0px;
+  float: left;
+}
+#line{
+  width: 1px;
+  height: 20px;
+  background-color: #778A50;
+  margin: 26px 2px 17px 0px;
+  float: left;
+}
+#login{
+  width: 60px;
+}
+#join{
+  width: 50px;
+}
+.button_word a{
+  float: left;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: Arial Black;
+  color: #778A50;
+  padding: 1px 0px 0px 0px;
+  border: 1px solid #75874F;
+  background-color: #EDF2C5;
+  border-radius: 3px;
+  margin: 25px 0px 17px 8px;
+  height: 19px;
+}
+.site-nav{
+  margin-top: 10px;
+}
+.site-nav ul{
+  margin: 0;
+  padding: 0;
+}
+.site-nav li{
+  list-style: none;
+  float: left;
+}
+.site-nav a{
+  display: block;
+  color: #EDF2C5;
+  font-family: Arial Black;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 16px 29px 16px 30px;
+  background-color: #889C5B;
+}
+#home{
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+#contact{
+  padding-right: 320px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+/*head part end*/
+/*body part*/
+.main-view img{
+  margin-top: 20px;
+  margin-bottom: 32px;
+}
+h3{
+  width: 421px;
+  background-color: #889C5B;
+  font-family: Arial Black;
+  font-size: 16px;
+  color: #EDF2C5;
+  padding: 16px 0px 16px 31px;
+  border-radius: 5px;
+  margin-bottom: 17px;
+  margin-top: 0;
+}
+.vegetables img{
+  margin: 0px 12px 34px 0px;
+  padding: 0;
+}
+.vegetables{
+  float: left;
+}
+.contact{
+  float: right;
+}
+.contact-box{
+  background-color: #eef3d3;
+  width: 437px;
+  padding: 15px 0px 15px 15px;
+  margin: 0;
+  border-radius: 5px;
+}
+.contact-box p{
+  font-family: Arial;
+  font-size: 12px;
+  color: #898989;
+  padding: 0;
+  margin: 0;
+}
+#mail{
+  width: 421px;
+  padding: 15px 0px 15px 0px;
+  border-top: 1px solid #898989;
+  margin-top: 15px;
+}
+/*body part end*/
+/*footer*/
+footer{
+  width: 1260px;
+  padding: 24px 0px 24px 0px;
+  background-color: #889C5B;
+  text-align: center;
+}
+footer > p{
+  font-family: Arial Black;
+  font-size: 12px;
+  color: #EDF2C5;
+}
