@@ -4,14 +4,19 @@ html{
 body{
   margin: 0;
 }
-.main-head{
+.head-area{
+  max-width: 941px;
   padding-top: 50px;
-  padding-left: 150px;
+  float: none;
+  /*padding-left: 150px;*/
+  margin: auto;
 }
-.main-body{
-  padding-left: 150px;
+.body-area{
+  /*padding-left: 150px;*/
+  margin: auto;
   padding-bottom: 34px;
   width: 940px;
+  clear:both;
 }
 .clear{
   clear: both;
@@ -21,8 +26,8 @@ h1{
   font-family: Arial Black;
   font-size: 43px;
   color: #889C5B;
-  margin: 0px 0px 10px 0px;
-  padding: 0;
+  margin: 0;
+  padding: 0px 0px 10px 0px;
   float: left;
 }
 #fb{
@@ -141,6 +146,7 @@ h3{
 /*footer*/
 footer{
   width: 1260px;
+  margin: auto;
   padding: 24px 0px 24px 0px;
   background-color: #889C5B;
   text-align: center;
